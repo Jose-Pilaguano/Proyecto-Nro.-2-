@@ -45,7 +45,11 @@ A continuación se muestra el diagrma que decribe el funcionamiento del circuito
 4.RESULTADOS
 "Se determinó que mediante la experimentación, el circuito funciona de la siguiente manera: la alimentación del circuito es de 110 voltios de corriente alterna, en donde la fase se conecta al punto medio del interruptor y el neutro a la boquilla. El interruptor 1 tiene sus dos extremos conectados a las dos partes externas del interruptor 2 y la otra conexión de la boquilla va al punto medio del interruptor 2."
 
-5.VIDEO A CONTINUACIÓN SE ADJUNTARAN ALGUNOS VIDEOS QUE MUESTRAN EL FUNCIONAMINETO DEL CIRCUITO: https://youtube.com/shorts/fP2ANIRaRZY https://youtube.com/shorts/5MzLqmzYTEM https://youtube.com/shorts/F29EVut71VU
+5.VIDEO A CONTINUACIÓN SE ADJUNTARAN ALGUNOS VIDEOS QUE MUESTRAN EL FUNCIONAMINETO DEL CIRCUITO: 
+
+https://youtube.com/shorts/fP2ANIRaRZY 
+
+https://youtube.com/shorts/5MzLqmzYTEM https://youtube.com/shorts/F29EVut71VU
 
 6.CONCLUSIONES
 
@@ -67,6 +71,7 @@ A continuación se muestra el diagrma que decribe el funcionamiento del circuito
 • Además se debe tener en cuenta el uso de cables en buen estado para garantizar una buena conexión entre los componentes y un buen funcionamiento del circuito, y si no se cuenta con los componentes adecuados, se deben reemplazar para evitar problemas en el circuito.
 
 8.BIBLIOGRAFÍA
+
 https://www.youtube.com/watch?v=q3oUc9_qnyc
 
 https://youtu.be/n4GGXW_CDJA
