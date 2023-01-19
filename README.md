@@ -40,7 +40,10 @@ CABLES NEGROS Y ROJOS
 
 A continuación se muestra el diagrma que decribe el funcionamiento del circuito:
 
-![image](https://user-images.githubusercontent.com/116677175/213514222-45870831-b04f-4fea-92bd-4c9e20f0b071.png)
+![image](https://user-images.githubusercontent.com/116677175/213520502-b91bea82-688b-4200-9cea-0422ac108ed0.png)
+
+![image](https://user-images.githubusercontent.com/116677175/213520604-8e217aa7-174c-4914-9fbe-a49b94adbec2.png)
+
 
 4.RESULTADOS
 "Se determinó que mediante la experimentación, el circuito funciona de la siguiente manera: la alimentación del circuito es de 110 voltios de corriente alterna, en donde la fase se conecta al punto medio del interruptor y el neutro a la boquilla. El interruptor 1 tiene sus dos extremos conectados a las dos partes externas del interruptor 2 y la otra conexión de la boquilla va al punto medio del interruptor 2."
